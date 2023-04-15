@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dustin-carpenter-creations.netlify.app/](https://dustin-carpenter-creations.netlify.app/)
 
-- 💬 Ask me about **JavaScript, HTML5, CSS**
+- 💬 Ask me about **Node.js, Express, React, EJS, Mongoose, MongoDB, JavaScript, HTML5, CSS**
 
 - 📫 How to reach me **dustin.carpenter2855@gmail.com**
 
