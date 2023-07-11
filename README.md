@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dustin_carp" target="blank"><img src="https://img.shields.io/twitter/follow/dustin_carp?logo=twitter&style=for-the-badge" alt="dustin_carp" /></a> </p>
 
-- 🌱 I’m currently learning **Node, React, TypeScript.**
+- 🌱 I’m currently learning **TypeScript.**
 
 - 👨‍💻 All of my projects are available at [https://dustin-carpenter-creations.netlify.app/](https://dustin-carpenter-creations.netlify.app/)
 
